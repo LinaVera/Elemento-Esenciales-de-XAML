@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\EsencialesXAMLSlider\EsencialesXAMLSlider\EsencialesXAMLSlider\bin\Debug\netstandard2.0\EsencialesXAMLSlider.deps.json
+C:\Users\Usuario\source\repos\EsencialesXAMLSlider\EsencialesXAMLSlider\EsencialesXAMLSlider\bin\Debug\netstandard2.0\EsencialesXAMLSlider.dll
+C:\Users\Usuario\source\repos\EsencialesXAMLSlider\EsencialesXAMLSlider\EsencialesXAMLSlider\bin\Debug\netstandard2.0\EsencialesXAMLSlider.pdb
+C:\Users\Usuario\source\repos\EsencialesXAMLSlider\EsencialesXAMLSlider\EsencialesXAMLSlider\obj\Debug\netstandard2.0\EsencialesXAMLSlider.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\EsencialesXAMLSlider\EsencialesXAMLSlider\EsencialesXAMLSlider\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\source\repos\EsencialesXAMLSlider\EsencialesXAMLSlider\EsencialesXAMLSlider\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\source\repos\EsencialesXAMLSlider\EsencialesXAMLSlider\EsencialesXAMLSlider\obj\Debug\netstandard2.0\EsencialesXAMLSlider.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EsencialesXAMLSlider\EsencialesXAMLSlider\EsencialesXAMLSlider\obj\Debug\netstandard2.0\EsencialesXAMLSlider.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EsencialesXAMLSlider\EsencialesXAMLSlider\EsencialesXAMLSlider\obj\Debug\netstandard2.0\EsencialesXAMLSlider.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EsencialesXAMLSlider\EsencialesXAMLSlider\EsencialesXAMLSlider\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\source\repos\EsencialesXAMLSlider\EsencialesXAMLSlider\EsencialesXAMLSlider\obj\Debug\netstandard2.0\EsencialesXAMLSlider.dll
+C:\Users\Usuario\source\repos\EsencialesXAMLSlider\EsencialesXAMLSlider\EsencialesXAMLSlider\obj\Debug\netstandard2.0\EsencialesXAMLSlider.pdb
